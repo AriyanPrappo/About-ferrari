@@ -1,0 +1,45 @@
+body{
+	background:black;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;                           
+}
+#heading1{
+	color:Red;
+	text-align:center;
+}
+.A{
+	text-align:center;
+}
+#heading2{
+	text-align:center;
+	margin:2;
+	background:white;
+}
+#heading3{
+	text-align:center;
+	margin:2;
+	background:white;
+}
+.B{
+text-align:center;
+}
+#image1{
+	transition:400ms;
+}
+#image2{
+	transition:400ms;
+}
+#image1:hover{
+	width:210px;
+	height:210px;
+	transition:400ms;
+}
+#image2:hover{
+	width:210px;
+	height:210px;
+	transition:400ms;
+}
+.C{
+text-align:center;
+}
